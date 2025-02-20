@@ -56,7 +56,7 @@ Ensure you have **Node.js** and **npm** installed.
     npm start
     ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [https://asritha-sri-krishna.github.io/maze-game/] (https://asritha-sri-krishna.github.io/maze-game/) in your browser.
 
 ---
 
