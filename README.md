@@ -17,7 +17,6 @@ Welcome to **Maze Game**, a fun and challenging game where players navigate thro
 
 - **React.js** (Frontend framework)
 - **Tailwind CSS** (Styling)
-- **Framer Motion** (Animations)
 - **JavaScript (ES6+)** (Logic and interactivity)
 
 ---
